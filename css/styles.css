@@ -1,0 +1,12 @@
+body {
+  background-color: #cccc66;
+}
+h1 {
+  background-color: #ccff33;
+  color: #131a00;
+  font-size: 4em;
+  line-height: 4em;
+  text-align: center;
+  font-family: 'Quattrocento', serif;
+  border-radius: 25px;
+}
