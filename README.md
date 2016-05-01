@@ -1,7 +1,7 @@
 # :map: [Places I've Been](http://karenfreemansmith.github.io/my-places)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: April 18, 2016__
+__Version 1: May 1, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
@@ -19,7 +19,7 @@ Make a website where you can enter places you've been. Each place will be an obj
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* Still Under Construction
+* Probably should reset the fields on that form!
 
 ### Technologies Used
 ###### HTML, CSS, Bootstrap, JavaScript, jQuery

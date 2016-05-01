@@ -12,16 +12,23 @@
   <body>
     <div class="container">
       <h1>Places I've Been</h1>
-      <div>
-        <form class="form-group" id="savePlace">
-          Type: <input id="placeType">
-          Location: <input id="placeLocation">
-          Year: <input id="placeYear"><br>
-          Notes:<input id="placeNotes">
-          <button type="submit">Save</button>
-        </form>
-        <h3>My Places</h3>
-        <p id="showPlaces"></p>
+      <div class="row">
+        <div class="col-xs-1"></div>
+        <div class="col-xs-7">
+          <h3>My Places</h3>
+          <div id="showPlaces"></div>
+        </div>
+        <div class="col-xs-3">
+          <h3>Add New Place:</h3>
+          <form class="form-group" id="savePlace">
+            <label for "placeLocation">Location: </label><input class="form-control" id="placeLocation">
+            <label for "placeYear">Year: </label><input class="form-control" id="placeYear">
+            <label for "placeType">Type: </label><input class="form-control" id="placeType">
+            <label for "placeNotes">Notes: </label>
+            <textarea class="form-control" rows="3" id="placeNotes"></textarea>
+            <button type="submit" class="btn btn-block btn-default">Save</button>
+          </form>
+        </div>
       </div>
     </div>
   <script src="js/jquery-1.12.2.js"></script>

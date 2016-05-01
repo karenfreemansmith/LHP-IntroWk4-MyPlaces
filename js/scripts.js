@@ -16,6 +16,6 @@ $("#savePlace").submit(function(event) {
   var inputNotes = $("#placeNotes").val();
 
   var newPlace = new Place(inputType, inputLocation, inputYear, inputNotes);
-  var message = newPlace.year + ": <strong>" + newPlace.type + " in " + newPlace.location + "</strong> <br><em>" + newPlace.notes + "</em>";
-  $("#showPlaces").text(message);
+  var message = "<p>" + newPlace.year + ": <strong>" + newPlace.type + " in " + newPlace.location + "</strong> <br><em>" + newPlace.notes + "</em></p>";
+  $("#showPlaces").append(message);
 });
