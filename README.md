@@ -1,4 +1,4 @@
-# :map: [Places I've Been](http://karenfreemansmith.github.io/my-places)
+# [Places I've Been](http://karenfreemansmith.github.io/my-places)
 ![project screenshot](/img/screenshot.jpg)
 
 __Version 1: May 1, 2016__
@@ -9,22 +9,22 @@ __*A website to show where I've been.*__
 
 Make a website where you can enter places you've been. Each place will be an object that can have a couple different properties, like location, landmarks, time of year, notes, etc. Then display those properties when a user clicks on each place. Make sure to do the business logic for your place object first.
 
-#### Uses:
-* [Fresh Start](http://karenfreemansmith.github.io/freshstart)
+## Technologies Used
+HTML, CSS
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Known Issues
-* Probably should reset the fields on that form!
+## Known Issues
+* None
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
-
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
