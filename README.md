@@ -1,25 +1,26 @@
-# [Places I've Been](http://karenfreemansmith.github.io/my-places)
-![project screenshot](/img/screenshot.jpg)
+# My Places
+Version 0.0.1: May 1, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: May 1, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*A website to show where I've been.*__
+![screenshot of project running](screenshot.png)
 
-Make a website where you can enter places you've been. Each place will be an object that can have a couple different properties, like location, landmarks, time of year, notes, etc. Then display those properties when a user clicks on each place. Make sure to do the business logic for your place object first.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 4 Individual Project: A website that keeps track of places you've been.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk4-MyPlaces)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
+
+## Specifications
+Make a website where you can enter places you've been. Each place will be an object that can have a couple different properties, like location, landmarks, time of year, notes, etc. Then display those properties when a user clicks on each place. Make sure to do the business logic for your place object first.
 
 ## Known Issues
 * None
